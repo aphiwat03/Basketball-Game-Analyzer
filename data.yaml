@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['basketball', 'hoop', 'person']
+
+roboflow:
+  workspace: ku-jkg6t
+  project: basketball-5jiqu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ku-jkg6t/basketball-5jiqu/dataset/1
