@@ -8,6 +8,6 @@ names: ['basketball', 'hoop', 'person']
 roboflow:
   workspace: ku-jkg6t
   project: basketball-5jiqu
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/ku-jkg6t/basketball-5jiqu/dataset/1
+  url: https://universe.roboflow.com/ku-jkg6t/basketball-5jiqu/dataset/2
