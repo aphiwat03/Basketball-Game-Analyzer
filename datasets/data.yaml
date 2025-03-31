@@ -1,0 +1,13 @@
+train: C:\Project CV\bassket ball\train\images
+val: C:\Project CV\bassket ball\valid\images
+test: C:\Project CV\bassket ball\test\images
+
+nc: 6
+names: ['Basketball-courts', 'ball', 'made', 'person', 'rim', 'shoot']
+
+roboflow:
+  workspace: basketballgame
+  project: player_detect-0spfb-kapps
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/basketballgame/player_detect-0spfb-kapps/dataset/1
